@@ -410,10 +410,6 @@ availability at arrival. Users should contact hospitals to confirm
 availability. In emergencies, contact local emergency services rather
 than relying on this ranking alone.
 
-## Author
-
-**Project by:** Abinash Nayak
-
 Update this section with your preferred GitHub profile or contact link
 if you want to include one.
 
